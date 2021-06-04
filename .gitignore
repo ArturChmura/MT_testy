@@ -1,4 +1,4 @@
-*.il
+*.ll
 !TestPad.exe
 results/*
 errors*
