@@ -2,7 +2,7 @@
 program {
     int n;
     double k;
-    
+    n = 0;
     while (false) {}
     while (n < 10) { n = n + 1; }
     
@@ -15,7 +15,7 @@ program {
     }
     
 
-    
+    k = 0;
     while (k < 10)
         k = k + 1;
         

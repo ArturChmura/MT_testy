@@ -1,7 +1,7 @@
 program{
     write ~~---(int)!false; // -1
     write "\n";
-    write (double)!!!false * -(double)-0.25; //0.250000
+    write (double)(int)!!!false * -(double)-0.25; //0.250000
     write "\n";
     write ~~((int)9.999 + --5); // 14
     write "\n";

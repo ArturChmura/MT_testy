@@ -1,6 +1,7 @@
 program{
 double liczba;
 int n;
+n =0;
 liczba = 11.065;
 write "Kolejne liczby calkowite mniejsze od ";
 write liczba;

@@ -10,29 +10,24 @@ double POPjazzANDrockANDrollMAAAN;
 double X;
 double Y;
 double Z;
-bool p;
 bool q;
 bool r;
-
+bool p;
+a  = 0;
 //Poczatek programu
 write a;
 write "\n";
 write X;
 write "\n";
-write p;
-write "\n";
 
 read a;
 read X;
-read p;
 
 {}
 {
 write a;
 write "\n";
 write X;
-write "\n";
-write p;
 write "\n";
 {{}}
 {{{{}write "akuku!\n";
@@ -108,14 +103,14 @@ b=1+4*(
 +21);
 //test !@#$%^&*()-=_+,.<>;':"[]{}|\`~ADAd
 write (int)true;
-write (double)true;
+write (double)(int)true;
 write (int)-24.157127;
 write (double)-24212;
 a = 0;
 while((a=a+1) < 5) {}
 write "OK\n";
 if(true) {} else {}
-write "\t\tOK\n";
+write "OK\n";
 
 return;
 write "FAIL\n";

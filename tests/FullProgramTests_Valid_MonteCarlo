@@ -6,6 +6,8 @@ program {
     int i; int iters; // Loop index
     int inside;
     double pi;
+	i = 0;
+	inside = 0;
     
     iters = 1000;
     

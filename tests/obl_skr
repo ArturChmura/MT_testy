@@ -1,6 +1,7 @@
 program {
 int a;
 bool b;
+a = 0;
 b = true || (a=10)>0;
 write "\nok: ";
 write a == 0;
