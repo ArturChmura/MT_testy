@@ -2,6 +2,7 @@ program{
 	int number;
 	int current ;
 	int nop ;
+	current = 0;
 	number = 3;
 	nop = 5;
 	while (current < nop){

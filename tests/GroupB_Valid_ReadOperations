@@ -1,6 +1,5 @@
 program {
 	int a;
-	
 	{
 		{ 
 			{ read a; }
@@ -20,8 +19,6 @@ program {
 			write a; write "\n";
 			{
 				bool c;
-					read c;
-					write c; write "\n";
 			}
 		}
 	}

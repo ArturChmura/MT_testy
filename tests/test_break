@@ -1,6 +1,7 @@
 program{
 	int number;
 	int current;
+	current = 0;
 	number = 3;
 	while (true){
 	write "dobry\n";

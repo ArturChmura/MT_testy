@@ -1,18 +1,9 @@
 program{
 
-int[] it, it2, it3;
-double[] dt, dt2, dt3;
-bool[] bt, bt2, bt3;
+int it[3], it2[4], it3[5];
+double dt[3], dt2[4], dt3[5];
+bool bt[3], bt2[4], bt3[5];
 
-create it[3];
-create it2[4];
-create it3[5];
-create dt[3];
-create dt2[4];
-create dt3[5];
-create bt[3];
-create bt2[4];
-create bt3[5];
 
 it[1] = 1;
 it2[2] = it[1];
